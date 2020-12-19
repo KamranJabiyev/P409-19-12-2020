@@ -1,0 +1,6 @@
+E:\P409\C#\StaticAbstractInterface\StaticAbstractInterface\bin\Debug\StaticAbstractInterface.exe.config
+E:\P409\C#\StaticAbstractInterface\StaticAbstractInterface\bin\Debug\StaticAbstractInterface.exe
+E:\P409\C#\StaticAbstractInterface\StaticAbstractInterface\bin\Debug\StaticAbstractInterface.pdb
+E:\P409\C#\StaticAbstractInterface\StaticAbstractInterface\obj\Debug\StaticAbstractInterface.csprojAssemblyReference.cache
+E:\P409\C#\StaticAbstractInterface\StaticAbstractInterface\obj\Debug\StaticAbstractInterface.exe
+E:\P409\C#\StaticAbstractInterface\StaticAbstractInterface\obj\Debug\StaticAbstractInterface.pdb
